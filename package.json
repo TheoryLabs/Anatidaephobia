@@ -1,0 +1,38 @@
+{
+  "name": "@theorylabs/anatidaephobia",
+  "version": "0.0.1",
+  "private": false,
+  "description": "The irrational fear that somewhere, a duck or goose is watching you. Also, this package has nothing to do with ducks and everything to do with locking down the TheoryLabs Namespace as an immutable, symbolic store. Although, isn't that exactly what the duck watching you right now, at this precise moment in time eternal, would say?",
+  "license": "SEE LICENSE IN LICENSE.txt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TheoryLabs/Anatidaephobia.git"
+	},
+	"author": {
+		"name": "Branden Dane",
+		"email": "Dane@TheoryLabs.dev",
+		"url": "TheoryLabs.dev"
+	},
+	"main": "src/index.js",
+	"scripts": {
+		"demo": "node ./demo.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+    "store",
+    "namespace",
+    "ns",
+    "symbol",
+    "symbols",
+    "global",
+    "registry",
+    "constants",
+    "noop",
+		"meta",
+		"metaprogramming",
+		"meta-programming",
+		"types",
+		"theorylabs",
+		"danetheory"
+	]
+}
